@@ -11,10 +11,14 @@
             "id": "6f934b46acf88c47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2502160100.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2502160100"
             }
           }
         ]
@@ -164,8 +168,17 @@
   "active": "6f934b46acf88c47",
   "lastOpenFiles": [
     "_posts/2503161403.md",
-    "image/Pasted image 20250316141156.png",
+    "_posts/2504271504.md",
+    "Annex/image/Pasted image 20250427153311.png",
+    "Annex/image",
+    "Annex",
     "_posts/2503030300.md",
+    "_posts/2502160100.md",
+    "Untitled.canvas",
+    "image/Pasted image 20250427152911.png",
+    "categories/index.md",
+    "Annex/images/十二妖.jpg",
+    "image/Pasted image 20250316141156.png",
     "_posts/2503030200.md",
     "_posts/2503030100.md",
     "_posts/2502280100.md",
@@ -177,7 +190,6 @@
     "_posts/2502190100.md",
     "_posts/2502170100.md",
     "_posts/2502160200.md",
-    "_posts/2502160100.md",
     "template/post_template.md",
     "template"
   ]
